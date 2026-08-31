@@ -5,3 +5,15 @@
   color: blue;
   width: 200px;
 }
+
+.timer {
+  font-size: 6rem;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
